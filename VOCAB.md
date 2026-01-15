@@ -1,5 +1,7 @@
 # VOCAB (/publishing/)
 
+inherits: /
+
 ---
 
 ## Content Concepts
@@ -79,12 +81,5 @@ The elapsed time between freeze and publication.
 ### traceability
 
 The property of being linked to ledger evidence.
-
----
-
-### triad
-
-The set of artifacts (`CANON.md`, `VOCAB.md`, `README.md`) required for a valid
-scope.
 
 ---
