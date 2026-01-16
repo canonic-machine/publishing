@@ -6,40 +6,7 @@ inherits: /canonic/machine/os/writing/paper
 
 ## Axioms
 
-### 1. Triad
-
-A PUBLISHING scope **MUST** contain the following artifacts:
-
-- `CANON.md`
-- `VOCAB.md`
-- `README.md`
-
-Absence of any triad artifact renders the PUBLISHING scope invalid.
-
----
-
-### 2. Inheritance
-
-This CANON **MUST** inherit all axioms from its parent scope.
-
-- Inherited axioms are final.
-- This CANON **MUST NOT** override or contradict inherited axioms.
-- Inheritance terminates at the root scope.
-
----
-
-### 3. Introspection
-
-`VOCAB.md` **MUST** define every concept used by:
-
-- this CANON
-- `VOCAB.md` itself
-
-Undefined concepts render the PUBLISHING scope invalid.
-
----
-
-### 4. Dissemination-only scope
+### 1. Dissemination-only scope
 
 PUBLISHING exists to disseminate evidence-bearing artifacts.
 
@@ -48,14 +15,14 @@ PUBLISHING exists to disseminate evidence-bearing artifacts.
 
 ---
 
-### 5. Evidence anchoring
+### 2. Evidence anchoring
 
 Every published artifact **MUST** reference the freeze tag and evidence window
 used to produce it.
 
 ---
 
-### 6. Time-to-publication disclosure
+### 3. Time-to-publication disclosure
 
 PUBLISHING output **MUST** disclose:
 
@@ -65,9 +32,18 @@ PUBLISHING output **MUST** disclose:
 
 ---
 
-### 7. Minimality
+### 4. Minimality
 
 PUBLISHING governance **MUST** remain minimal.
+
+---
+
+## Inherited Constraints
+
+This scope inherits from PAPER:
+- **Triad** (PAPER Axiom 1): CANON.md, VOCAB.md, README.md required
+- **Inheritance** (PAPER Axiom 2): Inherited axioms are final
+- **Introspection** (PAPER Axiom 3): VOCAB defines all concepts
 
 ---
 
