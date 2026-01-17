@@ -60,12 +60,6 @@ The time a publication artifact is released.
 
 ---
 
-### publishing
-
-The scope that packages and releases PAPER artifacts.
-
----
-
 ### submission
 
 A recorded act of submitting a manuscript to a venue.
