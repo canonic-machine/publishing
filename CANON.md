@@ -47,6 +47,13 @@ This scope inherits from PAPER:
 
 ---
 
+## References
+
+- IDF-116: SPEC Closes Scope (evidence anchoring pattern)
+- IDF-136: Self-Discovering Distribution Architecture (publication channels)
+
+---
+
 **This CANON defines validity for PUBLISHING.**
 **Interpretation and narrative remain in PAPER.**
 
